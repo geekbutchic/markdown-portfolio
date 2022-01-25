@@ -2,7 +2,7 @@
 
 <img src="./images/portfolio.jpg" width="400">
 
-[Github Account](https://github.com/geekbutchic?tab=repositories)
+[Github Account](https://github.com/geekbutchic/markdown-portfolio/blob/master/porfolio.md)
 
 ### BIOGRAPHY : 
 
@@ -22,7 +22,5 @@
 1. WINE COLLECTOR 
 2. SPEAKS CASTILIAN SPANISH, ITALIAN, ENGLISH, SOME FRENCH.
 3. AVID INVESTOR - VANGUARD 
-
-
 
 
