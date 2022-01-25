@@ -2,14 +2,14 @@
 
 <img src="./images/portfolio.jpg" width="400">
 
-[Github Account](https://github.com/geekbutchic/markdown-portfolio/blob/master/porfolio.md)
+[GITHUB ACCOUNT](https://github.com/geekbutchic/markdown-portfolio/blob/master/porfolio.md)
 
 ### BIOGRAPHY : 
 
 > FULL STACK MERN DEVELOPER WITH AWS DEPLOYMENT
 
 ---
-### CODING LANGUAGES
+### *CODING LANGUAGES*
 
 * JAVASCRIPT
 * REACT 
@@ -17,7 +17,7 @@
 * CSS
 * SWIFT 
 
-### HOBBIES 
+### *HOBBIES* 
 
 1. WINE COLLECTOR 
 2. SPEAKS CASTILIAN SPANISH, ITALIAN, ENGLISH, SOME FRENCH.
